@@ -1,2 +1,2 @@
 # first-repo-from-terraform
-Repo Created by Terraform using Github Providers
+Repo Created by Terraform using Github Providers. Manually changed.
